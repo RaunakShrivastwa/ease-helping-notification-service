@@ -1,0 +1,646 @@
+[2025-12-21 18:26:55] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 18:26:56] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 18:27:09] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 18:27:16] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 18:27:18] [32minfo[39m: 
+[2025-12-21 18:27:18] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 18:27:19] [32minfo[39m: 
+[2025-12-21 18:27:19] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 18:27:22] [32minfo[39m: Server
+[2025-12-21 18:27:22] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 18:27:26] [32minfo[39m: Server running on 
+[2025-12-21 18:27:26] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 18:27:30] [32minfo[39m: Server running is 
+[2025-12-21 18:27:30] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 18:27:33] [32minfo[39m: Server running 
+[2025-12-21 18:27:33] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 18:27:43] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 18:27:43] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 18:27:50] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 18:27:50] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 18:33:19] [32minfo[39m: BOOKING_CREATED consumed: {"userId":"676767","status":"PENDING","catogery":"hjjjk","location":"dfff","sheduleAt":"1222222","_id":"6947f017d1cdcf0ce665ed37","createdAt":"2025-12-21T13:03:19.710Z","updatedAt":"2025-12-21T13:03:19.710Z","__v":0}
+[2025-12-21 19:49:35] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:49:35] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:49:39] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:49:39] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:49:45] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:49:45] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:49:50] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:50:47] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:51:20] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:51:24] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:51:24] [32minfo[39m: 
+[2025-12-21 19:51:24] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:51:26] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:51:26] [32minfo[39m: 
+[2025-12-21 19:51:26] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:51:28] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:51:28] [32minfo[39m: redis 
+[2025-12-21 19:51:28] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:51:31] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:51:31] [32minfo[39m: redis connected
+[2025-12-21 19:51:31] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:53:43] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:53:43] [32minfo[39m: redis connected
+[2025-12-21 19:53:43] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:53:47] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:53:47] [32minfo[39m: redis connected
+[2025-12-21 19:53:47] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:53:48] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:53:48] [32minfo[39m: redis connected
+[2025-12-21 19:53:48] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:53:52] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:53:52] [32minfo[39m: redis connected
+[2025-12-21 19:53:52] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:53:55] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:53:55] [32minfo[39m: redis connected
+[2025-12-21 19:53:55] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:53:57] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:53:57] [32minfo[39m: redis connected
+[2025-12-21 19:53:57] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 19:54:01] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 19:54:01] [32minfo[39m: redis connected
+[2025-12-21 19:54:01] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:23:08] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:23:08] [32minfo[39m: redis connected
+[2025-12-21 20:23:08] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:23:18] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:23:18] [32minfo[39m: redis connected
+[2025-12-21 20:23:18] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:23:20] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:23:20] [32minfo[39m: redis connected
+[2025-12-21 20:23:20] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:23:21] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:23:21] [32minfo[39m: redis connected
+[2025-12-21 20:23:21] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:23:23] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:23:23] [32minfo[39m: redis connected
+[2025-12-21 20:23:23] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:23:25] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:23:25] [32minfo[39m: redis connected
+[2025-12-21 20:23:25] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:23:26] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:23:26] [32minfo[39m: redis connected
+[2025-12-21 20:23:27] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:27:56] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:27:56] [32minfo[39m: redis connected
+[2025-12-21 20:27:56] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:28:12] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:28:12] [32minfo[39m: redis connected
+[2025-12-21 20:28:12] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:28:14] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:28:14] [32minfo[39m: redis connected
+[2025-12-21 20:28:14] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:28:16] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:28:16] [32minfo[39m: redis connected
+[2025-12-21 20:28:16] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:28:19] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:28:19] [32minfo[39m: redis connected
+[2025-12-21 20:28:19] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:28:51] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:28:51] [32minfo[39m: redis connected
+[2025-12-21 20:28:51] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:30:22] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:30:22] [32minfo[39m: redis connected
+[2025-12-21 20:30:22] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:30:32] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:30:32] [32minfo[39m: redis connected
+[2025-12-21 20:30:32] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:30:43] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:30:43] [32minfo[39m: redis connected
+[2025-12-21 20:30:43] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:31:06] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:31:06] [32minfo[39m: redis connected
+[2025-12-21 20:31:06] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:32:19] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:32:19] [32minfo[39m: redis connected
+[2025-12-21 20:32:19] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:32:21] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:32:21] [32minfo[39m: redis connected
+[2025-12-21 20:32:21] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:33:22] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:33:22] [32minfo[39m: redis connected
+[2025-12-21 20:33:22] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:33:27] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:33:27] [32minfo[39m: redis connected
+[2025-12-21 20:33:27] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:33:33] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:33:33] [32minfo[39m: redis connected
+[2025-12-21 20:33:33] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:33:37] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:33:37] [32minfo[39m: redis connected
+[2025-12-21 20:33:37] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:33:42] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:33:42] [32minfo[39m: redis connected
+[2025-12-21 20:33:42] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:33:50] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:33:50] [32minfo[39m: redis connected
+[2025-12-21 20:33:50] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:34:05] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:34:05] [32minfo[39m: redis connected
+[2025-12-21 20:34:05] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:47:24] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:47:24] [32minfo[39m: redis connected
+[2025-12-21 20:47:24] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:47:35] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:47:35] [32minfo[39m: redis connected
+[2025-12-21 20:47:35] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:49:32] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:49:32] [32minfo[39m: redis connected
+[2025-12-21 20:49:32] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:54:47] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:54:47] [32minfo[39m: redis connected
+[2025-12-21 20:54:47] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:54:50] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:54:50] [32minfo[39m: redis connected
+[2025-12-21 20:54:50] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:54:50] [32minfo[39m: 
+[2025-12-21 20:54:52] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:54:52] [32minfo[39m: redis connected
+[2025-12-21 20:54:52] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:54:52] [32minfo[39m: 
+[2025-12-21 20:54:55] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:54:55] [32minfo[39m: redis connected
+[2025-12-21 20:54:55] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:54:55] [32minfo[39m: new 
+[2025-12-21 20:55:01] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:55:01] [32minfo[39m: redis connected
+[2025-12-21 20:55:01] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:55:01] [32minfo[39m: new provider connected
+[2025-12-21 20:55:02] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:55:02] [32minfo[39m: redis connected
+[2025-12-21 20:55:02] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:55:02] [32minfo[39m: new provider connected 
+[2025-12-21 20:55:07] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:55:07] [32minfo[39m: redis connected
+[2025-12-21 20:55:07] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:55:07] [32minfo[39m: new provider connected [object Object]
+[2025-12-21 20:55:08] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:55:08] [32minfo[39m: redis connected
+[2025-12-21 20:55:08] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:55:09] [32minfo[39m: new provider connected WwHyvu032NihijJsAAAB
+[2025-12-21 20:55:12] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:55:12] [32minfo[39m: redis connected
+[2025-12-21 20:55:12] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:55:12] [32minfo[39m: new provider connected Pfb4OpP5u-Y2VB-nAAAB
+[2025-12-21 20:55:17] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:55:17] [32minfo[39m: redis connected
+[2025-12-21 20:55:17] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:55:17] [32minfo[39m: new provider connected jpZ7MWlqU_nRGLNxAAAB
+[2025-12-21 20:55:28] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:55:28] [32minfo[39m: redis connected
+[2025-12-21 20:55:28] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:55:28] [32minfo[39m: new provider connected GqwYdC1X5dyrJTECAAAB
+[2025-12-21 20:55:29] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:55:29] [32minfo[39m: redis connected
+[2025-12-21 20:55:29] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:55:29] [32minfo[39m: new provider connected Y12ziY67eXgOvyZKAAAB
+[2025-12-21 20:55:39] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:55:39] [32minfo[39m: redis connected
+[2025-12-21 20:55:39] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:55:39] [32minfo[39m: new provider connected g4zQHUVLZ-kX3mHqAAAB
+[2025-12-21 20:55:40] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:55:40] [32minfo[39m: redis connected
+[2025-12-21 20:55:40] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:55:40] [32minfo[39m: new provider connected BPD6sT-reCafOeK_AAAB
+[2025-12-21 20:55:42] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:55:42] [32minfo[39m: redis connected
+[2025-12-21 20:55:42] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:55:42] [32minfo[39m: new provider connected Y_-yIChCRlWEWkNLAAAB
+[2025-12-21 20:55:49] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:55:49] [32minfo[39m: redis connected
+[2025-12-21 20:55:49] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:55:50] [32minfo[39m: new provider connected _c9eLMLqgrlFvsMnAAAB
+[2025-12-21 20:55:54] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:55:54] [32minfo[39m: redis connected
+[2025-12-21 20:55:54] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:55:54] [32minfo[39m: new provider connected s-8PwPDuga3MaPLZAAAB
+[2025-12-21 20:56:03] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:56:03] [32minfo[39m: redis connected
+[2025-12-21 20:56:03] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:56:03] [32minfo[39m: new provider connected fy01PRVNXGWwJDhbAAAB
+[2025-12-21 20:56:16] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:56:16] [32minfo[39m: redis connected
+[2025-12-21 20:56:16] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:56:17] [32minfo[39m: new provider connected XY_yIwPi9UU3Ife-AAAB
+[2025-12-21 20:56:42] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:56:42] [32minfo[39m: redis connected
+[2025-12-21 20:56:42] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:56:42] [32minfo[39m: new provider connected Kw675WreCQ0IeMl5AAAB
+[2025-12-21 20:56:43] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:56:43] [32minfo[39m: redis connected
+[2025-12-21 20:56:43] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:56:43] [32minfo[39m: new provider connected x28zl9JkLpTQYSwGAAAB
+[2025-12-21 20:56:49] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:56:49] [32minfo[39m: redis connected
+[2025-12-21 20:56:49] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:56:49] [32minfo[39m: new provider connected zpcbNJZ_HcjHn3BzAAAB
+[2025-12-21 20:57:05] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:57:05] [32minfo[39m: redis connected
+[2025-12-21 20:57:05] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:57:05] [32minfo[39m: new provider connected Wb6g-_G9TArza5juAAAB
+[2025-12-21 20:57:07] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:57:07] [32minfo[39m: redis connected
+[2025-12-21 20:57:07] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:57:08] [32minfo[39m: new provider connected dhZr8Fu9FJr68u91AAAB
+[2025-12-21 20:57:10] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:57:10] [32minfo[39m: redis connected
+[2025-12-21 20:57:10] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:57:10] [32minfo[39m: new provider connected B61QvmOq33FOUg6VAAAB
+[2025-12-21 20:57:12] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:57:12] [32minfo[39m: redis connected
+[2025-12-21 20:57:12] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:57:12] [32minfo[39m: new provider connected -HhzHnwllEevDwrjAAAB
+[2025-12-21 20:57:16] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:57:16] [32minfo[39m: redis connected
+[2025-12-21 20:57:16] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:57:16] [32minfo[39m: new provider connected QoaMtHoZzNDXWqIoAAAB
+[2025-12-21 20:57:23] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:57:23] [32minfo[39m: redis connected
+[2025-12-21 20:57:23] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:57:23] [32minfo[39m: new provider connected RJEWcJM8QVGzNhQ_AAAB
+[2025-12-21 20:57:33] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:57:34] [32minfo[39m: redis connected
+[2025-12-21 20:57:34] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:57:34] [32minfo[39m: new provider connected DDkq3xRiu5p7zT_sAAAB
+[2025-12-21 20:57:37] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:57:37] [32minfo[39m: redis connected
+[2025-12-21 20:57:37] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:57:37] [32minfo[39m: new provider connected ofk9joP47-hVVHz7AAAB
+[2025-12-21 20:57:43] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:57:43] [32minfo[39m: redis connected
+[2025-12-21 20:57:43] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:57:43] [32minfo[39m: new provider connected cXVXJnPJGoX7vD_KAAAB
+[2025-12-21 20:57:54] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:57:54] [32minfo[39m: redis connected
+[2025-12-21 20:57:54] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:57:54] [32minfo[39m: new provider connected 8dFPyGK4nB6fYtNgAAAB
+[2025-12-21 20:57:56] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:57:56] [32minfo[39m: redis connected
+[2025-12-21 20:57:56] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:57:56] [32minfo[39m: new provider connected nMIK8V1qdri3Xe0JAAAB
+[2025-12-21 20:57:58] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:57:58] [32minfo[39m: redis connected
+[2025-12-21 20:57:58] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:57:58] [32minfo[39m: new provider connected 0-FCpmcblmxU-kaKAAAB
+[2025-12-21 20:58:01] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:58:01] [32minfo[39m: redis connected
+[2025-12-21 20:58:01] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:58:02] [32minfo[39m: new provider connected KJ9IQSq27xsUspqSAAAB
+[2025-12-21 20:58:06] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:58:06] [32minfo[39m: redis connected
+[2025-12-21 20:58:06] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:58:06] [32minfo[39m: new provider connected _1joLufP26M-0aPKAAAB
+[2025-12-21 20:58:17] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:58:17] [32minfo[39m: redis connected
+[2025-12-21 20:58:17] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:58:18] [32minfo[39m: new provider connected cWb7o-7PNG8zMJe6AAAB
+[2025-12-21 20:58:28] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 20:58:28] [32minfo[39m: redis connected
+[2025-12-21 20:58:28] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 20:58:28] [32minfo[39m: new provider connected _MT125ct7VE7mgbDAAAB
+[2025-12-21 20:58:45] [32minfo[39m: Socket Disconnected _MT125ct7VE7mgbDAAAB
+[2025-12-21 20:59:08] [32minfo[39m: new provider connected oAX0IYalfw5tgQPbAAAD
+[2025-12-21 20:59:47] [32minfo[39m: 👤 Provider 2 is now Online & Saved to Redis.
+[2025-12-21 21:00:58] [32minfo[39m: Socket Disconnected oAX0IYalfw5tgQPbAAAD
+[2025-12-21 21:00:58] [32minfo[39m: 🗑️ User 2 removed from Redis online list.
+[2025-12-21 21:06:42] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:06:42] [32minfo[39m: redis connected
+[2025-12-21 21:06:42] [32minfo[39m: User Service Kafka Consumer connected
+[2025-12-21 21:26:23] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:26:23] [32minfo[39m: redis connected
+[2025-12-21 21:26:23] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:26:28] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:26:28] [32minfo[39m: redis connected
+[2025-12-21 21:26:29] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:28:02] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:28:02] [32minfo[39m: redis connected
+[2025-12-21 21:28:02] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:28:08] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:28:08] [32minfo[39m: redis connected
+[2025-12-21 21:28:08] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:28:14] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:28:15] [32minfo[39m: redis connected
+[2025-12-21 21:28:17] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:28:17] [32minfo[39m: redis connected
+[2025-12-21 21:28:23] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:28:23] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 21:28:23] [32minfo[39m: redis connected
+[2025-12-21 21:28:23] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:28:36] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:28:36] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 21:28:36] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:28:39] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:28:39] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 21:28:39] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:32:01] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:32:01] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 21:32:01] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 21:32:01] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:32:14] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:32:14] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 21:32:14] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:32:44] [32minfo[39m: new provider connected 0i7ZPaHgknoDcuXvAAAB
+[2025-12-21 21:33:00] [32minfo[39m: Socket Disconnected 0i7ZPaHgknoDcuXvAAAB
+[2025-12-21 21:33:00] [32minfo[39m: new provider connected cTSDg2LUQNTvXKrTAAAD
+[2025-12-21 21:33:08] [32minfo[39m: Socket Disconnected cTSDg2LUQNTvXKrTAAAD
+[2025-12-21 21:33:08] [32minfo[39m: new provider connected vhftGR90Mm1q-_kVAAAF
+[2025-12-21 21:33:50] [32minfo[39m: 👤 Provider 2 is now Online & Saved to Redis.
+[2025-12-21 21:34:16] [32minfo[39m: Socket Disconnected vhftGR90Mm1q-_kVAAAF
+[2025-12-21 21:34:16] [32minfo[39m: 🗑️ User 2 removed from Redis online list.
+[2025-12-21 21:34:16] [32minfo[39m: new provider connected OOryolNOJI-6dLEqAAAH
+[2025-12-21 21:34:39] [32minfo[39m: 👤 Provider 2 is now Online & Saved to Redis.
+[2025-12-21 21:36:54] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:36:54] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 21:36:54] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:36:58] [32minfo[39m: new provider connected dcktz_Ov_WLr_Wx3AAAB
+[2025-12-21 21:37:27] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:37:27] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 21:37:27] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:37:27] [32minfo[39m: new provider connected 3CNm7udVgl842ajeAAAB
+[2025-12-21 21:37:41] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:37:41] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 21:37:41] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:37:41] [32minfo[39m: new provider connected _Ia7zuiW0P_BvgsAAAAB
+[2025-12-21 21:38:54] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:38:54] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 21:38:54] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:38:54] [32minfo[39m: new provider connected 9c6USSwyK5FqYuinAAAB
+[2025-12-21 21:40:48] [32minfo[39m: Socket Disconnected 9c6USSwyK5FqYuinAAAB
+[2025-12-21 21:40:48] [32minfo[39m: new provider connected ViMFMUK_bwwFhpHHAAAD
+[2025-12-21 21:41:52] [32minfo[39m: Socket Disconnected ViMFMUK_bwwFhpHHAAAD
+[2025-12-21 21:41:53] [32minfo[39m: new provider connected KO2bpMZNvcnLwcr5AAAF
+[2025-12-21 21:51:26] [32minfo[39m: new provider connected 5NrbxBRfHUXCY3bmAAAH
+[2025-12-21 21:51:43] [32minfo[39m: Socket Disconnected 5NrbxBRfHUXCY3bmAAAH
+[2025-12-21 21:52:16] [32minfo[39m: new provider connected 6RRV_f0XaDL4I5DlAAAJ
+[2025-12-21 21:52:33] [32minfo[39m: new provider connected l9_V0OB0bKxhohxBAAAL
+[2025-12-21 21:52:40] [32minfo[39m: new provider connected CBTXUm6MQeT9YskqAAAN
+[2025-12-21 21:54:08] [32minfo[39m: 👤 Provider 7 is now Online & Saved to Redis.
+[2025-12-21 21:55:01] [32minfo[39m: 👤 Provider 10 is now Online & Saved to Redis.
+[2025-12-21 21:55:52] [32minfo[39m: 👤 Provider 9 is now Online & Saved to Redis.
+[2025-12-21 21:59:18] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:59:18] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 21:59:18] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:59:19] [32minfo[39m: new provider connected bPVbyJrlu2-1akDgAAAC
+[2025-12-21 21:59:19] [32minfo[39m: new provider connected 9Wx6I0u1uRBdWq--AAAE
+[2025-12-21 21:59:19] [32minfo[39m: new provider connected dEhMPCrPgJmW7LD6AAAG
+[2025-12-21 21:59:19] [32minfo[39m: new provider connected WfpMc9GPEIyO032pAAAH
+[2025-12-21 21:59:54] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:59:55] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 21:59:55] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:59:55] [32minfo[39m: new provider connected sqBsOp5sf7fFIrUzAAAC
+[2025-12-21 21:59:55] [32minfo[39m: new provider connected t6u17rtXlaG7JScsAAAD
+[2025-12-21 21:59:55] [32minfo[39m: new provider connected x9r0ZDjNUBulsWEnAAAG
+[2025-12-21 21:59:55] [32minfo[39m: new provider connected jJDXX7TTRgFae_CbAAAH
+[2025-12-21 21:59:59] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 21:59:59] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 21:59:59] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 21:59:59] [32minfo[39m: new provider connected S8esfA_f01Y2J7ZvAAAC
+[2025-12-21 21:59:59] [32minfo[39m: new provider connected 5CVdLHsk-yGM42FcAAAD
+[2025-12-21 21:59:59] [32minfo[39m: new provider connected u3P9Vzzv0MBPp6jeAAAF
+[2025-12-21 21:59:59] [32minfo[39m: new provider connected _fpzMZfaj9oGJrDmAAAH
+[2025-12-21 22:00:01] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:00:01] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:00:01] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:00:02] [32minfo[39m: new provider connected Voq5SIhC7qed8gitAAAC
+[2025-12-21 22:00:02] [32minfo[39m: new provider connected AfJaNbBH2YvJmGnVAAAD
+[2025-12-21 22:00:02] [32minfo[39m: new provider connected ydxKxwpI-rkdB1n6AAAG
+[2025-12-21 22:00:02] [32minfo[39m: new provider connected DDgu7zqq79xFI_VQAAAH
+[2025-12-21 22:00:05] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:00:05] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:00:05] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:00:05] [32minfo[39m: new provider connected 5qDnuZ_OhvtZZm_uAAAC
+[2025-12-21 22:00:05] [32minfo[39m: new provider connected VJ1wfB_Aa9GdOW-qAAAD
+[2025-12-21 22:00:05] [32minfo[39m: new provider connected ZqUWctdvRKyr2_JzAAAF
+[2025-12-21 22:00:05] [32minfo[39m: new provider connected qHxn9tEyS2MT5FuFAAAH
+[2025-12-21 22:00:11] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:00:11] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:00:11] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:00:11] [32minfo[39m: new provider connected qoOdf86xI_R8pi_yAAAC
+[2025-12-21 22:00:11] [32minfo[39m: new provider connected qAcYDnDJZ2MjTu5LAAAD
+[2025-12-21 22:00:11] [32minfo[39m: new provider connected wA055Pef7ieZRKhJAAAF
+[2025-12-21 22:00:11] [32minfo[39m: new provider connected H7ySzPMF6wARVWC8AAAH
+[2025-12-21 22:00:13] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:00:13] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:00:13] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:00:13] [32minfo[39m: new provider connected VjyuKIjdIVv-5Wk-AAAC
+[2025-12-21 22:00:13] [32minfo[39m: new provider connected gC-qI-NkoC1MFFLCAAAD
+[2025-12-21 22:00:13] [32minfo[39m: new provider connected Eaz0KPpCTY9KmnZSAAAG
+[2025-12-21 22:00:13] [32minfo[39m: new provider connected afod2jZ3QIE7O_MIAAAH
+[2025-12-21 22:00:15] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:00:15] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:00:15] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:00:16] [32minfo[39m: new provider connected vdrDUglSRyJn0MG9AAAC
+[2025-12-21 22:00:16] [32minfo[39m: new provider connected 46maZy1FMmEP1mwtAAAD
+[2025-12-21 22:00:16] [32minfo[39m: new provider connected TLr-HXAZfK5efYq9AAAG
+[2025-12-21 22:00:16] [32minfo[39m: new provider connected MeKZmAblm2GBLDxMAAAH
+[2025-12-21 22:02:46] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:02:46] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:02:46] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:02:46] [32minfo[39m: new provider connected cln21jm_tJMWn11EAAAC
+[2025-12-21 22:02:46] [32minfo[39m: new provider connected 4GsWl6AAdWn8ZKR3AAAD
+[2025-12-21 22:02:46] [32minfo[39m: new provider connected VQAn8HomKvi8jlBeAAAF
+[2025-12-21 22:02:46] [32minfo[39m: new provider connected 3vgT23QwnWJK6c3AAAAH
+[2025-12-21 22:02:54] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:02:54] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:02:54] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:02:55] [32minfo[39m: new provider connected nC1P2xiuTupSuV1wAAAC
+[2025-12-21 22:02:55] [32minfo[39m: new provider connected -p25_rmXL7kTFyycAAAD
+[2025-12-21 22:02:55] [32minfo[39m: new provider connected akMkHJzexRHYwzUnAAAF
+[2025-12-21 22:02:55] [32minfo[39m: new provider connected eETDeYrb6JkIod4rAAAH
+[2025-12-21 22:02:59] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:02:59] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:02:59] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:02:59] [32minfo[39m: new provider connected mssZwGA3Hn3gsiEEAAAC
+[2025-12-21 22:02:59] [32minfo[39m: new provider connected n9n9EXxA7O823FBoAAAD
+[2025-12-21 22:02:59] [32minfo[39m: new provider connected QyDgLMwQe3VnITOKAAAF
+[2025-12-21 22:02:59] [32minfo[39m: new provider connected kI7EXsnFRKtSkKxpAAAH
+[2025-12-21 22:03:03] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:03:03] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:03:03] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:03:03] [32minfo[39m: new provider connected w_wZ5P75e3uqvKNlAAAC
+[2025-12-21 22:03:03] [32minfo[39m: new provider connected 6Tt0MEojDuJRUSrGAAAD
+[2025-12-21 22:03:03] [32minfo[39m: new provider connected NesRa9YdOAsHatp4AAAF
+[2025-12-21 22:03:03] [32minfo[39m: new provider connected Ld5psj3aEoJvjhZbAAAH
+[2025-12-21 22:03:07] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:03:07] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:03:07] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:03:08] [32minfo[39m: new provider connected TNElVflwht3LywjMAAAC
+[2025-12-21 22:03:08] [32minfo[39m: new provider connected QEiHirkQgaqK-jDMAAAD
+[2025-12-21 22:03:08] [32minfo[39m: new provider connected P_9LgYwZfPYgPEOgAAAG
+[2025-12-21 22:03:08] [32minfo[39m: new provider connected HyXKSqg3brC9vhUSAAAH
+[2025-12-21 22:06:37] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:06:37] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:06:37] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:06:38] [32minfo[39m: new provider connected h1fdDmApOV0EMIDdAAAC
+[2025-12-21 22:06:38] [32minfo[39m: new provider connected DAo44wPKWVyHiYyoAAAD
+[2025-12-21 22:06:38] [32minfo[39m: new provider connected d1eVulV1-TZjdy3jAAAF
+[2025-12-21 22:06:38] [32minfo[39m: new provider connected fUNOk33FcM2cZiPkAAAH
+[2025-12-21 22:06:45] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:06:45] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:06:45] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:06:45] [32minfo[39m: new provider connected HFmviMjZrIdOZgj7AAAB
+[2025-12-21 22:06:45] [32minfo[39m: new provider connected rDJVQlHKg6rRGcz4AAAE
+[2025-12-21 22:06:45] [32minfo[39m: new provider connected Mu4MpWh6bReD2UtLAAAF
+[2025-12-21 22:06:47] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:06:47] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:06:47] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:06:47] [32minfo[39m: new provider connected oYwXgcbEXiQdF-u1AAAD
+[2025-12-21 22:06:47] [32minfo[39m: new provider connected l0kv6Sbcwv3C4daOAAAE
+[2025-12-21 22:06:47] [32minfo[39m: new provider connected 6FO80stH_IHcZ1OGAAAF
+[2025-12-21 22:06:49] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:06:49] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:06:49] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:06:50] [32minfo[39m: new provider connected 0NcjjBRPoKBk3XylAAAB
+[2025-12-21 22:06:50] [32minfo[39m: new provider connected Xp8bnZFdW09Brrn_AAAE
+[2025-12-21 22:06:50] [32minfo[39m: new provider connected tgyvA9jADiZvf1DKAAAF
+[2025-12-21 22:06:54] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:06:54] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:06:54] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:06:55] [32minfo[39m: new provider connected 1Hwnwb-I7axZvf6bAAAB
+[2025-12-21 22:06:55] [32minfo[39m: new provider connected fhCzF12cyWZ6-B_kAAAE
+[2025-12-21 22:06:55] [32minfo[39m: new provider connected tqgt71M7bRVj5NzKAAAF
+[2025-12-21 22:07:00] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:07:00] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:07:00] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:07:01] [32minfo[39m: new provider connected iIglDbbE4k0IChcNAAAC
+[2025-12-21 22:07:01] [32minfo[39m: new provider connected GrVYPlBf9mWJJrjsAAAD
+[2025-12-21 22:07:01] [32minfo[39m: new provider connected ICT_uFu071IGiY0eAAAF
+[2025-12-21 22:13:50] [32minfo[39m: Socket Disconnected ICT_uFu071IGiY0eAAAF
+[2025-12-21 22:13:50] [32minfo[39m: Socket Disconnected iIglDbbE4k0IChcNAAAC
+[2025-12-21 22:13:50] [32minfo[39m: Socket Disconnected GrVYPlBf9mWJJrjsAAAD
+[2025-12-21 22:13:50] [32minfo[39m: new provider connected Nugbd1j1-8AW4YrNAAAH
+[2025-12-21 22:13:50] [32minfo[39m: new provider connected S2K4FgmRFWoc-mN8AAAJ
+[2025-12-21 22:13:50] [32minfo[39m: new provider connected Zo6SQhvjW94vaJ9FAAAL
+[2025-12-21 22:16:32] [32minfo[39m: Socket Disconnected Nugbd1j1-8AW4YrNAAAH
+[2025-12-21 22:16:32] [32minfo[39m: Socket Disconnected S2K4FgmRFWoc-mN8AAAJ
+[2025-12-21 22:16:32] [32minfo[39m: Socket Disconnected Zo6SQhvjW94vaJ9FAAAL
+[2025-12-21 22:16:32] [32minfo[39m: new provider connected V6aV6uYJ1qKU4A27AAAO
+[2025-12-21 22:16:32] [32minfo[39m: new provider connected MhL7Qh_i9yZgh79GAAAP
+[2025-12-21 22:16:32] [32minfo[39m: new provider connected aAYQhrxzuRuR5h8TAAAR
+[2025-12-21 22:18:34] [32minfo[39m: Socket Disconnected MhL7Qh_i9yZgh79GAAAP
+[2025-12-21 22:18:34] [32minfo[39m: Socket Disconnected V6aV6uYJ1qKU4A27AAAO
+[2025-12-21 22:18:34] [32minfo[39m: Socket Disconnected aAYQhrxzuRuR5h8TAAAR
+[2025-12-21 22:18:34] [32minfo[39m: new provider connected bIg1iMML3VHJlDXjAAAT
+[2025-12-21 22:18:34] [32minfo[39m: new provider connected YHCRAqnNfZPelZfJAAAW
+[2025-12-21 22:18:34] [32minfo[39m: new provider connected xDDRwuov_AEloOqYAAAX
+[2025-12-21 22:19:13] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:19:13] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:19:14] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:19:14] [32minfo[39m: new provider connected m6sDBvFAu2MUogL-AAAB
+[2025-12-21 22:19:14] [32minfo[39m: new provider connected 6bPTWEtlWZMWS0oFAAAE
+[2025-12-21 22:19:14] [32minfo[39m: new provider connected uxNDveJpXiaIT9JRAAAF
+[2025-12-21 22:20:10] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:20:10] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:20:10] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:20:10] [32minfo[39m: new provider connected VSt2HCzgOBpoMW0EAAAB
+[2025-12-21 22:20:11] [32minfo[39m: new provider connected kYzV3t76g57BAhZqAAAD
+[2025-12-21 22:20:11] [32minfo[39m: new provider connected jHimvEUioGv9HlQzAAAF
+[2025-12-21 22:20:46] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:20:46] [32minfo[39m: Socket Disconnected VSt2HCzgOBpoMW0EAAAB
+[2025-12-21 22:20:46] [32minfo[39m: Socket Disconnected kYzV3t76g57BAhZqAAAD
+[2025-12-21 22:20:46] [32minfo[39m: Socket Disconnected jHimvEUioGv9HlQzAAAF
+[2025-12-21 22:20:46] [32minfo[39m: new provider connected SyvcKTWaaQ_9-uOVAAAI
+[2025-12-21 22:20:46] [32minfo[39m: new provider connected oDGYh_4pMOluX3c8AAAJ
+[2025-12-21 22:20:46] [32minfo[39m: new provider connected IofoPE4Iuzbb55U-AAAL
+[2025-12-21 22:20:49] [32minfo[39m: 📧 Email sent to abhijeetkumar2532002@gmail.com
+[2025-12-21 22:20:49] [32minfo[39m: 📧 Email sent to abhijeetkumar2532002@gmail.com
+[2025-12-21 22:20:50] [32minfo[39m: 📧 Email sent to abhijeetkumar2532002@gmail.com
+[2025-12-21 22:20:51] [32minfo[39m: 📧 Email sent to codecprogramming@gmail.com
+[2025-12-21 22:20:51] [32minfo[39m: 📧 Email sent to codecprogramming@gmail.com
+[2025-12-21 22:20:51] [32minfo[39m: 📧 Email sent to codecprogramming@gmail.com
+[2025-12-21 22:23:53] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:23:53] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:23:53] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:23:53] [32minfo[39m: new provider connected fyPrJ9paTJRZQ98eAAAB
+[2025-12-21 22:23:53] [32minfo[39m: new provider connected 2AWJmbO4_Wssl86WAAAE
+[2025-12-21 22:23:53] [32minfo[39m: new provider connected UeHm9zQdJlHcaka0AAAF
+[2025-12-21 22:23:58] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:23:58] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:23:58] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:23:58] [32minfo[39m: new provider connected f39ZeqLN9eleK93CAAAB
+[2025-12-21 22:23:58] [32minfo[39m: new provider connected jDc27CvGxwbYdx8vAAAD
+[2025-12-21 22:23:58] [32minfo[39m: new provider connected vzZsT1ARP20K7Gd2AAAF
+[2025-12-21 22:24:52] [31merror[39m: ❌ Booking consume error Custom Id cannot contain :
+[2025-12-21 22:25:48] [31merror[39m: ❌ Booking consume error Custom Id cannot contain :
+[2025-12-21 22:26:15] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:26:15] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:26:15] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:26:16] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:26:16] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:26:16] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:26:16] [32minfo[39m: new provider connected vaV1uz2YiOgyxc0DAAAB
+[2025-12-21 22:26:16] [32minfo[39m: new provider connected RuiAfL6PyNQIwPVtAAAE
+[2025-12-21 22:26:16] [32minfo[39m: new provider connected INApGehyt9J6KlceAAAF
+[2025-12-21 22:27:13] [31merror[39m: ❌ Booking consume error Custom Id cannot contain :
+[2025-12-21 22:27:16] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:27:16] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:27:16] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:27:16] [32minfo[39m: new provider connected hn3Ap46VI2mNuAGGAAAB
+[2025-12-21 22:27:16] [32minfo[39m: new provider connected KPdi7Rkj7coRaHnzAAAD
+[2025-12-21 22:27:16] [32minfo[39m: new provider connected -gXqvUpIUU4_81JaAAAF
+[2025-12-21 22:28:53] [31merror[39m: ❌ Booking consume error Custom Id cannot contain :
+[2025-12-21 22:30:50] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:30:50] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:30:50] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:30:51] [32minfo[39m: new provider connected cmE1K16Jxy4CXVWdAAAB
+[2025-12-21 22:30:51] [32minfo[39m: new provider connected 5cNQBOzYq5CucFPJAAAE
+[2025-12-21 22:30:51] [32minfo[39m: new provider connected Nn31XFgSRwdSe_iJAAAF
+[2025-12-21 22:30:55] [32minfo[39m: Socket Disconnected 5cNQBOzYq5CucFPJAAAE
+[2025-12-21 22:30:55] [32minfo[39m: Socket Disconnected cmE1K16Jxy4CXVWdAAAB
+[2025-12-21 22:30:55] [32minfo[39m: Socket Disconnected Nn31XFgSRwdSe_iJAAAF
+[2025-12-21 22:30:55] [32minfo[39m: new provider connected 9U9eUzmv6_CxE8bQAAAH
+[2025-12-21 22:30:55] [32minfo[39m: new provider connected 80FZ7FT2TgJEcfWsAAAJ
+[2025-12-21 22:30:55] [32minfo[39m: new provider connected cwkwzDD_paSOpboZAAAL
+[2025-12-21 22:31:25] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:31:25] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:31:25] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:31:25] [32minfo[39m: new provider connected DcxE7ti75IYpvAudAAAB
+[2025-12-21 22:31:25] [32minfo[39m: new provider connected R3A5j0R_rFAFI-vpAAAE
+[2025-12-21 22:31:25] [32minfo[39m: new provider connected 7w-xrHM8G5HZ6UU-AAAF
+[2025-12-21 22:31:50] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:31:50] [32minfo[39m: Socket Disconnected R3A5j0R_rFAFI-vpAAAE
+[2025-12-21 22:31:50] [32minfo[39m: Socket Disconnected 7w-xrHM8G5HZ6UU-AAAF
+[2025-12-21 22:31:50] [32minfo[39m: Socket Disconnected DcxE7ti75IYpvAudAAAB
+[2025-12-21 22:31:50] [32minfo[39m: new provider connected RyvvrjoxW9lNZFJYAAAI
+[2025-12-21 22:31:50] [32minfo[39m: new provider connected fkiMMjCnekgdq0zQAAAK
+[2025-12-21 22:31:50] [32minfo[39m: new provider connected aBySoC-UsIRRfOMTAAAL
+[2025-12-21 22:32:43] [32minfo[39m: 📧 Email sent to kumarraunak4201@gmail.com
+[2025-12-21 22:34:05] [32minfo[39m: 📧 Email sent to codecprogramming@gmail.com
+[2025-12-21 22:34:08] [32minfo[39m: 📧 Email sent to abhijeetkumar2532002@gmail.com
+[2025-12-21 22:35:20] [32minfo[39m: Socket Disconnected RyvvrjoxW9lNZFJYAAAI
+[2025-12-21 22:36:09] [32minfo[39m: Socket Disconnected aBySoC-UsIRRfOMTAAAL
+[2025-12-21 22:37:48] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:37:48] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:37:48] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:37:48] [32minfo[39m: 🔌 new provider connected 0rr1GOTiWSkVegb5AAAB
+[2025-12-21 22:37:59] [32minfo[39m: ❌ socket disconnected 0rr1GOTiWSkVegb5AAAB | reason: transport close
+[2025-12-21 22:37:59] [33mwarn[39m: ⚠️ userId missing on disconnect, skipping redis delete
+[2025-12-21 22:37:59] [32minfo[39m: 🔌 new provider connected GBGAxZZKP9wB8Le1AAAD
+[2025-12-21 22:38:06] [32minfo[39m: ❌ socket disconnected GBGAxZZKP9wB8Le1AAAD | reason: transport close
+[2025-12-21 22:38:06] [33mwarn[39m: ⚠️ userId missing on disconnect, skipping redis delete
+[2025-12-21 22:38:40] [32minfo[39m: Server running http://localhost:8000
+[2025-12-21 22:38:40] [32minfo[39m: 🟢 ioredis connected successfully
+[2025-12-21 22:38:40] [32minfo[39m: 📥 BOOKING_CREATED consumer started
+[2025-12-21 22:38:47] [32minfo[39m: 🔌 new provider connected zOvKxNAO0fZAD7fRAAAB
+[2025-12-21 22:39:29] [32minfo[39m: 👤 Provider 7 online & saved in Redis
+[2025-12-21 22:39:48] [32minfo[39m: ❌ socket disconnected zOvKxNAO0fZAD7fRAAAB | reason: transport close
+[2025-12-21 22:39:48] [32minfo[39m: 🗑️ Provider 7 removed from Redis
+[2025-12-21 22:40:18] [32minfo[39m: 🔌 new provider connected Xt83STa-ORPWwCa7AAAD
+[2025-12-21 22:40:22] [32minfo[39m: ❌ socket disconnected Xt83STa-ORPWwCa7AAAD | reason: transport close
+[2025-12-21 22:40:22] [33mwarn[39m: ⚠️ userId missing on disconnect, skipping redis delete
+[2025-12-21 22:40:32] [32minfo[39m: 🔌 new provider connected B_K-ha4EXC8hymQrAAAF
+[2025-12-21 22:40:40] [32minfo[39m: 🔌 new provider connected 8QUZ-7rBfEQfsIW5AAAH
+[2025-12-21 22:40:49] [32minfo[39m: 🔌 new provider connected oJRynVA55ay2DEZnAAAJ
+[2025-12-21 22:41:52] [32minfo[39m: 👤 Provider 7 online & saved in Redis
+[2025-12-21 22:42:26] [32minfo[39m: 👤 Provider 10 online & saved in Redis
+[2025-12-21 22:42:54] [32minfo[39m: 👤 Provider 9 online & saved in Redis
+[2025-12-21 22:43:26] [32minfo[39m: 📧 Email sent to codecprogramming@gmail.com
+[2025-12-21 22:43:27] [32minfo[39m: 📧 Email sent to abhijeetkumar2532002@gmail.com
+[2025-12-21 22:45:07] [32minfo[39m: ❌ socket disconnected oJRynVA55ay2DEZnAAAJ | reason: transport close
+[2025-12-21 22:45:07] [32minfo[39m: 🗑️ Provider 7 removed from Redis
+[2025-12-21 22:45:39] [32minfo[39m: 📧 Email sent to abhijeetkumar2532002@gmail.com
+[2025-12-21 22:47:50] [32minfo[39m: 🔌 new provider connected abhSis4XsvfSo5MtAAAL
+[2025-12-21 22:48:26] [32minfo[39m: 👤 Provider 11 online & saved in Redis
+[2025-12-21 22:49:38] [32minfo[39m: 📧 Email sent to kumarraunak4201@gmail.com
+[2025-12-21 22:49:39] [32minfo[39m: 📧 Email sent to aashishshrivastav19@gmail.com
