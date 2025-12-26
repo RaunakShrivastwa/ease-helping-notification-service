@@ -5,12 +5,15 @@
   "main": "dist/server.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node-dev --clear --respawn --transpile-only src/server.ts"
+    "start": "ts-node-dev --clear --respawn --transpile-only src/server.ts",
+    "start:worker": "ts-node src/worker/emailWorker.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@bull-board/api": "^6.16.0",
+    "@bull-board/express": "^6.16.0",
     "bullmq": "^5.66.2",
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",

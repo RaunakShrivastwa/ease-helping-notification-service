@@ -23,6 +23,8 @@ export async function startBookingConsumer() {
         if (!message.value) return;
 
         const booking = JSON.parse(message.value.toString());
+        console.log("booking",booking);
+        
         const { location } = booking;
 
         const providers = await ioredis.hgetall("online_providers");
